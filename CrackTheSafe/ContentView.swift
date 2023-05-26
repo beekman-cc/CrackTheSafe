@@ -11,7 +11,11 @@ import CoreData
 struct ContentView: View {
     
     var body: some View {
-        Text("Initial text")
+        ZStack {
+            
+            GameView()
+        }
+        .background(.black)
     }
 }
     

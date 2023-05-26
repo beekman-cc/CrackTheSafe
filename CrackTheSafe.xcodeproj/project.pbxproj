@@ -13,6 +13,7 @@
 		2E868CBA2A20E4FC0043B01E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E868CB92A20E4FC0043B01E /* Preview Assets.xcassets */; };
 		2E868CBC2A20E4FC0043B01E /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E868CBB2A20E4FC0043B01E /* Persistence.swift */; };
 		2E868CBF2A20E4FC0043B01E /* CrackTheSafe.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2E868CBD2A20E4FC0043B01E /* CrackTheSafe.xcdatamodeld */; };
+		2E868CC62A20EFDE0043B01E /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E868CC52A20EFDE0043B01E /* GameView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		2E868CB92A20E4FC0043B01E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2E868CBB2A20E4FC0043B01E /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		2E868CBE2A20E4FC0043B01E /* CrackTheSafe.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CrackTheSafe.xcdatamodel; sourceTree = "<group>"; };
+		2E868CC52A20EFDE0043B01E /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				2E868CBB2A20E4FC0043B01E /* Persistence.swift */,
 				2E868CBD2A20E4FC0043B01E /* CrackTheSafe.xcdatamodeld */,
 				2E868CB82A20E4FC0043B01E /* Preview Content */,
+				2E868CC52A20EFDE0043B01E /* GameView.swift */,
 			);
 			path = CrackTheSafe;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				2E868CBF2A20E4FC0043B01E /* CrackTheSafe.xcdatamodeld in Sources */,
 				2E868CB52A20E4FB0043B01E /* ContentView.swift in Sources */,
 				2E868CB32A20E4FB0043B01E /* CrackTheSafeApp.swift in Sources */,
+				2E868CC62A20EFDE0043B01E /* GameView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
